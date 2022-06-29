@@ -1,7 +1,7 @@
 # Calculo de Salario com Descontos 
 
 ## O que é isso?
-Este é um exercício que pergunta ao Usuário qual o valor de sua hora de trabalho, o número de horas trabalhadas no mês e mostra o salário mensal. Do salário bruto, deverá ser descontado 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato da categoria
+Este é um exercício que pergunta ao Usuário qual o valor de sua hora de trabalho, o número de horas trabalhadas no mês e mostra o salário bruto. Do salário bruto, deverá ser descontado 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato da categoria
 
 ## Qual tecnologia usei?
 Linguagem - Phyton
